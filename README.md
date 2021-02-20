@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Hi, I'm Levi </h1>
+<h1> Hi, I'm Levi </h1>
 
 ### Web Developer :briefcase:
 
