@@ -18,7 +18,7 @@
 
 ✔️ Sistemas para Internet - Fatec Faculdade de Tecnologia de Araras 
 
-✔️ Sistemas para Internet - ETEC Prefeito Alberto Feres
+✔️ Informática para Internet - ETEC Prefeito Alberto Feres
 
 ✔️ Informática - ETEC Prefeito Alberto Feres
 
