@@ -4,6 +4,10 @@
 
 ### Web Developer :briefcase:
 
+✔️ PHP
+
+✔️ Ruby on Rails 
+
 ✔️ Boostrap
 
 ✔️ PHP
